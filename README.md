@@ -19,8 +19,8 @@ https://customerconnect.vmware.com/downloads/get-download?downloadGroup=VS-MGMT-
 Open Source Disclosure packages for VMWare vSphere Hypervisor (ESXi) 8.0u2
 SHA1SUM: e6e0f6302bdd5b2c6c3e6cd1d17dfbd2e28e41a8
 https://download3.vmware.com/software/vsphere67/open-source/VMware-ESXI-670-ODP.iso
-Open Source Disclosure Package for VMware vSphere Hypervisor (ESXi) 6.7 Toolchain
+Open Source Disclosure Package for VMware vSphere Hypervisor (ESXi) 8.0u2 Toolchain
 TOOLCHAIN packages, contains all the used toolchains during the build process, together with source, build instructions and build scripts.
-[https://download3.vmware.com/software/vsphere67/open-source/VMware-TOOLS-10.2.0-ODP.iso](https://github.com/vmware/open-vm-tools/archive/refs/tags/stable-12.3.5.tar.gz)
+https://github.com/vmware/open-vm-tools/archive/refs/tags/stable-12.3.5.tar.gz
 test
 esxcli software vib remove -n net-r8125 esxcli software vib install -v /vmfs/volumes/datastore1/net-r8125-9.006.04-1.vib
